@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.x-orange)
 ![Transformers](https://img.shields.io/badge/transformers-BERT-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Description
 
