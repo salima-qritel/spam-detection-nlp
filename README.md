@@ -129,4 +129,8 @@ pip install -r requirements.txt
  - Scores d’attention pour LSTM + Attention
 
  - Comparaison des métriques RNN vs LSTM vs BERT
+## 🧑‍💻 Author
 
+**Salima Qritel**
+
+* GitHub: [@salima-qritel](https://github.com/salima-qritel)
